@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A9109B77-0926-4046-9480-81E10110557C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AnimeBoard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>496310BA139A0A7F0FFAFD25473EE170524C65D9</key>
+		<string>https://github.com/b20160/AnimeBoard.git</string>
+		<key>DA77A0E676F645D3DB889CDB4CBCA9091AE4EC4F</key>
+		<string>https://github.com/b20160/AnimeBoard.git</string>
+		<key>ED63224F4E16829FCCC7D50C2587D820AFB7DD30</key>
+		<string>https://github.com/b20160/Anime-Board.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AnimeBoard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>496310BA139A0A7F0FFAFD25473EE170524C65D9</key>
+		<string>../../../Anime-BoardAnimeBoard</string>
+		<key>DA77A0E676F645D3DB889CDB4CBCA9091AE4EC4F</key>
+		<string>../..</string>
+		<key>ED63224F4E16829FCCC7D50C2587D820AFB7DD30</key>
+		<string>../../../Anime-Board</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/b20160/AnimeBoard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA77A0E676F645D3DB889CDB4CBCA9091AE4EC4F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED63224F4E16829FCCC7D50C2587D820AFB7DD30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Anime-Board</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>496310BA139A0A7F0FFAFD25473EE170524C65D9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Anime-BoardAnimeBoard</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA77A0E676F645D3DB889CDB4CBCA9091AE4EC4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AnimeBoard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
